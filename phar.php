@@ -13,3 +13,4 @@ $phar = new Phar('user.phar', 0, 'user.phar');
 //phar-demo 456
 //phar-demo 789
 //phar-demo 111111112222
+//phar-demo 3456
